@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Rust, C/C++ and Python
+- 📫 How to reach me: [ t.me/ary1337 ](https://t.me/ary1337)
 <!--
 **4ry1337/4ry1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
