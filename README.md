@@ -12,7 +12,7 @@
 - General purpose computing on GPU (GPGPU) working on [cuda_lab](https://github.com/4ry1337/cuda_lab)
 - Network programming working on [TCP AAD](https://github.com/4ry1337/TCP-AAD-Tests) and [OpenVis](https://github.com/4ry1337/sdn/tree/main/Project)
 
-You can fund me on [linkedin](https://www.linkedin.com/in/rakhat-yskak/)
+You can find me on [linkedin](https://www.linkedin.com/in/rakhat-yskak/)
 or send me a [dm (t.me/ary1337)](https://t.me/ary1337)
 
 <!--
